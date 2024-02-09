@@ -4,12 +4,12 @@
 
 ```json
 {
-	"enabled": true,
 	"certificate_authorities": [
 		{
-			"id": "ca_2bMmXZkvTDnflcJnthzBWWCTu1w",
-			"uri": "https://api.ngrok.com/certificate_authorities/ca_2bMmXZkvTDnflcJnthzBWWCTu1w"
+			"id": "ca_2c8wNS47leYnmcEl5ERc9lKtcyE",
+			"uri": "https://api.ngrok.com/certificate_authorities/ca_2c8wNS47leYnmcEl5ERc9lKtcyE"
 		}
-	]
+	],
+	"enabled": true
 }
 ```
